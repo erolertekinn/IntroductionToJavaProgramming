@@ -15,8 +15,10 @@ public class Exercise02_08 {
 		totalMilliSeconds = System.currentTimeMillis();
 		currentMilliSeconds = totalMilliSeconds % 1000;
 		totalSeconds = totalMilliSeconds / 1000;
+		
 		currentSeconds = totalSeconds % 60;
 		totalMinutes = totalSeconds / 60;
+		
 		currentMinutes = totalMinutes % 60;
 		totalHour = totalMinutes / 60;
 		
