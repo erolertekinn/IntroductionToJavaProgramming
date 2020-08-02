@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Exercise03_27 {
 	public static void main(String[] args) {
+		// THIS PROGRAM IS NOT TOTALLY WORKING NEEDED TO BE UPDATED
 		Scanner keyboard = new Scanner(System.in);
 
 		System.out.print("Enter a point's x- and y-coordinates: ");

@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Exercise03_34 {
 
 	public static void main(String[] args) {
+		// THIS PROGRAM IS NOT TOTALLY WORKING NEEDED TO BE UPDATED
 		Scanner input = new Scanner(System.in);	// Create Scanner
 
 		System.out.print("Enter three points for p0, p1, and p2: ");
