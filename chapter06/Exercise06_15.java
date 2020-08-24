@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exercise06_15 {
 	public static void main(String[] args) {
-		
+
 		System.out.printf("%-15s%5s%-15s%5s%-40s%5s%-18s%5s%-15s\n", "Taxable Income", " ", "Single", " ",
 				"Married Joint or Qualifying Widow(er)", " ", "Married Seperate", " ", "Head of a House");
 		System.out.println(
